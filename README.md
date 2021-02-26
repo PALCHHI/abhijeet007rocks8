@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 
 ## **About Me:**
+Python Developer  ||  Web Developer 
 
 ## **TechStack:**
 
