@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ## **About Me:**
-Python Developer  ||  Web Developer 
+Python Developer  ||  Web Developer || Data Analyst
 
 ## **TechStack:**
 
