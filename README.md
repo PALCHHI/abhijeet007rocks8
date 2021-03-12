@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Python Developer  ||  Web Developer || Data Analyst || Tech Geek
 
 ## **TechStack:**
-Flask || ReactJS
+Flask || ReactJS || Python
 
 ## **Github Streak:**
 <p align = "center">
