@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## **About Me:**
-Python Developer  || Full-Stack Web Developer || Data Analyst || Competitive Coder || Web Lead @GDSC VIT Bhopal 
+Python Backend Developer  || Full-Stack Web Developer || Data Analyst || Competitive Coder || Web Lead @GDSC VIT Bhopal 
 
 ## **TechStack:**
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
