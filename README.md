@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## **About Me:**
-Github Extern @GitHub || Python Backend Developer  || Full-Stack Web Developer || Data Analyst || Web Lead @GDSC VIT Bhopal 
+Engineering Extern @GitHub || Python Backend Developer  || Full-Stack Web Developer || Data Analyst || Web Lead @GDSC VIT Bhopal 
 
 ## **TechStack:**
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
