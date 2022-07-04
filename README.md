@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## **About Me:**
-Ex-Engineering Extern @GitHub || Python Backend Developer  || Full-Stack Web Developer || Data Analyst || Web Lead @GDSC VIT Bhopal 
+Frontend Developer [@Sloyd.ai](https://github.com/Sloydai) || Ex-Engineering Extern [@GitHub](https://github.com/github) || Web Lead [@GDSC VIT Bhopal](https://github.com/DSCVITBHOPAL) || Python Backend Developer  || Full-Stack Web Developer || Data Analyst 
 
 ## **TechStack:**
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -47,7 +47,6 @@ Ex-Engineering Extern @GitHub || Python Backend Developer  || Full-Stack Web Dev
  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 </p>
-
 
 ---
 
