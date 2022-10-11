@@ -48,8 +48,8 @@ Frontend Developer [@Sloyd.ai](https://github.com/Sloydai) || Ex-Engineering Ext
  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 </p>
 
----
 
+<!--- 
 ## **Github Stats:**
 
 <p align="center">
@@ -66,6 +66,7 @@ Frontend Developer [@Sloyd.ai](https://github.com/Sloydai) || Ex-Engineering Ext
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=abhijeet007rocks8&line_height=40&theme=algolia">
 </p>
 
+-->
 ---
 
  <h2 align="center">📫 Reach out to me on</h2>
