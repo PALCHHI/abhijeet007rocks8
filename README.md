@@ -62,7 +62,7 @@ Frontend Developer [@Sloyd.ai](https://github.com/Sloydai) || Ex-Engineering Ext
 	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet007rocks8&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </p>
 
-
+<!--
 # Contributions
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
 <p align="center">
@@ -70,7 +70,7 @@ Frontend Developer [@Sloyd.ai](https://github.com/Sloydai) || Ex-Engineering Ext
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
-
+-->
 
 # Technologies
 
@@ -132,11 +132,12 @@ Frontend Developer [@Sloyd.ai](https://github.com/Sloydai) || Ex-Engineering Ext
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
-
+<!--
 # Metrics
 <p align="center">
 	<img width="625em" src="./github-metrics.svg" />
 </p>
+-->
 
 ---
 
