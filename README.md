@@ -49,13 +49,13 @@ Frontend Developer [@Sloyd.ai](https://github.com/Sloydai) || Prev-Engineering E
  <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 </p>
 -->
-<!-- <div> -->
+<!-- <div style="display: flex; flex-direction:row; width:100%; justify-content: space-between;"> -->
 <span align="left">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=abhijeet007rocks8&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
+	<img width="40%" src="https://github-readme-stats.vercel.app/api?username=abhijeet007rocks8&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 </span>
 
-<span align="right">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet007rocks8&include_all_commits=true&hide_border=true&theme=dark" />
+<span align="left">
+	<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet007rocks8&include_all_commits=true&hide_border=true&theme=dark" />
 </span>
 <!-- </div> -->
 <!-- <p align="center">
