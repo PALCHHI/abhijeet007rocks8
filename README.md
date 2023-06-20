@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## **About Me:**
-Frontend Developer [@Sloyd.ai](https://github.com/Sloydai) || Prev-Engineering Extern'22 [@GitHub](https://github.com/github) || Full-Stack Web Developer || Data Analyst ||  Python Backend Developer
+Prev-Engineering Extern'22 [@GitHub](https://github.com/github) || Full-Stack Web Developer || Data Analyst ||  Python Backend Developer
 
 <!--
 ## **TechStack:**
